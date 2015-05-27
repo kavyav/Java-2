@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Absolute {
 
-	/**
+	/**fd
 	 * @param args
 	 */
 	public static void main(String[] args) {
