@@ -5,7 +5,7 @@ public class Absolute {
 	/**fd
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args) {huygyu
 		// TODO Auto-generated method stub
 		float y;
 		int x;
